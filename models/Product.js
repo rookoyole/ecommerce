@@ -26,7 +26,7 @@ Product.init(
       allowNull: false
     },
     // define price column
-    product_name: {
+    price: {
       type: DataTypes.DECIMAL,
       allowNull: false,
       //validate if value is decimal
