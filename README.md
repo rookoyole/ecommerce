@@ -73,16 +73,16 @@
 The purpose of this project was to create an e-commerce back end for an internet retail website. This project uses Expresses.js, MySQL2, Sequelize, and dotenv packages.
 
 Features:
-* Employee info tracked: First/Last name, Role, Salary, Department and Manager
-* Add and update employee information
-* Add new employees to database
+* Product: GET, POST, PUT, DELETE capability
+* Category: GET, POST, PUT, DELETE capability
+* Product Tag: GET, POST, PUT, DELETE capability
 
 <!-- PROJECT LINKS -->
 ## Project Links
 
 Repository Link: [https://github.com/rookoyole/ecommerce](https://github.com/rookoyole/ecommerce)
 
-Walkthrough Video Link: [https://drive.google.com/file/d/1ejhiVmS1qDTaig-aI60YD22wUw1pOEnb/view/](https://drive.google.com/file/d/1ejhiVmS1qDTaig-aI60YD22wUw1pOEnb/view)
+Walkthrough Video Link: [https://drive.google.com/file/d/1iiKo1JnaprVdBitZSKo3ptK5A2kXPftM/view](https://drive.google.com/file/d/1iiKo1JnaprVdBitZSKo3ptK5A2kXPftM/view)
 
 <!-- CONTACT -->
 ## Contact
